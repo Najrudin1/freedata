@@ -18,7 +18,7 @@
 
 if(value < STRONG.share){
 
- window.open("whatsapp://send?text=*Free%2050Gb%20Internet%20Data%20Pack*%0A%20%0A*Get%2050GB%20free%20internet%20data%20in%20any%20network%20for%2060 Days.%20Get%20now*%0A%20%0A*1.%20Link-1*%0Ahttps://www.2022offer.xyz/%0A%20%0A*2.%20Link-2*%0Ahttps://www.2022offer.xyz/%0A%20%0A*3.%20Link-3*%0Ahttps://www.2022offer.xyz/%0A%20%0A*4.%20Link-4*%0Ahttps://www.2022offer.xyz/%0A%20%0A*Link-5*%0Ahttps://www.2022offer.xyz/%0A%20%0A*Try%20once*", "_blank");
+ window.open("whatsapp://send?text=*IPL%20Free%20Unlimited%20Internet%20Data%20Pack*%0A%20%0A*Get%20Unlimited%20Free%20internet%20in%20any%20network.*%0A%20%0A*1.%20Link-1*%0Ahttps://getfreedata.ga/%0A%20%0A*2.%20Link-2*%0Ahttps://getfreedata.ga/%0A%20%0A*3.%20Link-3*%0Ahttps://getfreedata.ga/%0A%20%0A*4.%20Link-4*%0Ahttps://getfreedata.ga/%0A%20%0A*Link-5*%0Ahttps://getfreedata.ga/%0A%20%0A", "_blank");
 
 }
         if(value>= STRONG.share){
